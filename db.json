@@ -2,13 +2,15 @@
 "Users": [
     {
       "id": 1,
-      "name": "León Alejandro",
+      "name": "Leon",
+        "pass": "123admin",
       "lastName": "Flor Sandoval",
       "age": 17
     },
     {
       "id": 2,
       "name": "Valeria",
+         "pass": "123admin",
       "lastName": "Artunduaga Valencia",
       "age": 17
     }
