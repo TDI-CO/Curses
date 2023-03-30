@@ -1,19 +1,28 @@
 {
-"Users": [
+  "Curses": [
     {
-      "id": 1,
-      "name": "Leon",
-        "pass": "123admin",
-      "lastName": "Flor Sandoval",
-      "age": 17
+      "name": "Curso de mateamticas",
+      "img": "https://www.eleconomista.com.mx/__export/1628567115364/sites/eleconomista/img/2021/08/09/miedo-a-las-matematicas.jpg_879771447.jpg",
+      "description": "qwertyuiosdfghjkvbnm",
+      "category": "matematicas"
     },
     {
-      "id": 2,
-      "name": "Valeria",
-         "pass": "123admin",
-      "lastName": "Artunduaga Valencia",
-      "age": 17
+      "name": "Curso de biología",
+      "img": "https://encolombia.com/wp-content/uploads/2021/09/Biologia.jpg",
+      "description": "wwfbnwr n`vuwbrf",
+      "category": "Sciences"
+    },
+    {
+      "name": "Cuentas T",
+      "img": "https://uploadgerencie.com/imagenes/la-cuenta-t.png",
+      "description": "ddfasfvwsfv",
+      "category": "echonomy"
+    },
+    {
+      "name": "Clases de cocina",
+      "img": "https://media.gq.com.mx/photos/5e74fae5bb3b8d000829a104/master/pass/GettyImages-966407886.jpg",
+      "description": "wefwrgwrG",
+      "category": "Coocking"
     }
   ]
-
 }
