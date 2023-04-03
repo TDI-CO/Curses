@@ -3,71 +3,66 @@
     {
       "id": 1,
       "name": "Curso de mateamticas",
+      "author": "Julio profe",
       "img": "https://matematicasdesdecero.com/wp-content/uploads/2023/01/1.jpg",
-      "description": "qwertyuiosdfghjkvbnm",
-      "category": "matematicas",
       "modules": [
         {
           "tittle": "Matematicas 1",
-          "unitys": [{"tittle": "Unidad 1", "descrition": "En esta unidad 1"}]
+          "img": "https://matematicasdesdecero.com/wp-content/uploads/2023/01/1.jpg"
         },
         {
           "tittle": "Matematicas 2",
-          "unitys": [{"tittle": "Unidad 2", "descrition": "En esta unidad 2"}]
+          "img": "https://matematicasdesdecero.com/wp-content/uploads/2023/01/1.jpg"
         }
       ]
     },
     {
       "id": 2,
-      "name": "Curso de biología",
-      "img": "https://encolombia.com/wp-content/uploads/2021/09/Biologia.jpg",
-      "description": "wwfbnwr n`vuwbrf",
-      "category": "Sciences",
+      "name": "Curso de programación",
+      "author": "TDI Code",
+      "img": "https://talently.tech/blog/wp-content/uploads/2022/02/%C2%BFQue-es-un-framework-en-programacion-scaled-1200x675.jpg",
       "modules": [
         {
-          "tittle": "Sciences 1",
-          "unitys": [{"tittle": "Unidad 1", "descrition": "En esta unidad 1"}]
+          "tittle": "Programación 1",
+          "img": "https://talently.tech/blog/wp-content/uploads/2022/02/%C2%BFQue-es-un-framework-en-programacion-scaled-1200x675.jpg"
         },
         {
-          "tittle": "Sciences 2",
-          "unitys": [{"tittle": "Unidad 2", "descrition": "En esta unidad 2"}]
+          "tittle": "Programación 2",
+          "img": "https://talently.tech/blog/wp-content/uploads/2022/02/%C2%BFQue-es-un-framework-en-programacion-scaled-1200x675.jpg"
         }
       ]
     },
     {
       "id": 3,
-      "name": "Cuentas T",
-      "img": "https://uploadgerencie.com/imagenes/la-cuenta-t.png",
-      "description": "ddfasfvwsfv",
-      "category": "echonomy",
+      "name": "Curso de cocina",
+      "author": "Master Chef",
+      "img": "https://static.vecteezy.com/system/resources/previews/011/571/289/non_2x/flat-design-of-people-cooking-food-in-kitchen-vector.jpg",
       "modules": [
         {
-          "tittle": "echonomy 1",
-          "unitys": [{"tittle": "Unidad 1", "descrition": "En esta unidad 1"}]
+          "tittle": "Programación 1",
+          "img": "https://static.vecteezy.com/system/resources/previews/011/571/289/non_2x/flat-design-of-people-cooking-food-in-kitchen-vector.jpg"
         },
         {
-          "tittle": "echonomy 2",
-          "unitys": [{"tittle": "Unidad 2", "descrition": "En esta unidad 2"}]
+          "tittle": "Programación 2",
+          "img": "https://static.vecteezy.com/system/resources/previews/011/571/289/non_2x/flat-design-of-people-cooking-food-in-kitchen-vector.jpg"
         }
       ]
     },
     {
       "id": 4,
-      "name": "Clases de cocina",
-      "img": "https://media.gq.com.mx/photos/5e74fae5bb3b8d000829a104/master/pass/GettyImages-966407886.jpg",
-      "description": "wefwrgwrG",
-      "category": "Coocking",
+      "name": "Curso de carro",
+      "author": "Maserati",
+      "img": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
       "modules": [
         {
-          "tittle": "Coocking 1",
-          "unitys": [{"tittle": "Unidad 2", "descrition": "En esta unidad 2"}]
+          "tittle": "Programación 1",
+          "img": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg"
         },
         {
-          "tittle": "Coocking 2",
-          "unitys": [{"tittle": "Unidad 1", "descrition": "En esta unidad 2"}]
+          "tittle": "Programación 2",
+          "img": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg"
         }
       ]
     }
   ]
 }
-
