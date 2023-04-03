@@ -1,46 +1,70 @@
-{
-  "Curses": [
-    {
-      "id": 1,
-      "name": "Curso de mateamticas",
-      "img": "https://matematicasdesdecero.com/wp-content/uploads/2023/01/1.jpg",
-      "description": "qwertyuiosdfghjkvbnm",
-      "category": "matematicas",
-      "modules": [
-        {"tittle": "Matematicas 1", "descrition": "xdcfvgbhjnklm"},
-        {"tittle": "Matematicas 2", "descrition": "evevfg"}
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Curso de biología",
-      "img": "https://encolombia.com/wp-content/uploads/2021/09/Biologia.jpg",
-      "description": "wwfbnwr n`vuwbrf",
-      "category": "Sciences",
-      "modules": [
-        {"tittle": "Sciences 1", "descrition": "xdcfvgbhjnklm"},
-        {"tittle": "Sciences 2", "descrition": "evevfg"}
-      ]
-    },
-    {
-      "name": "Cuentas T",
-      "img": "https://uploadgerencie.com/imagenes/la-cuenta-t.png",
-      "description": "ddfasfvwsfv",
-      "category": "echonomy",
-      "modules": [
-        {"tittle": "echonomy 1", "descrition": "xdcfvgbhjnklm"},
-        {"tittle": "echonomy 2", "descrition": "evevfg"}
-      ]
-    },
-    {
-      "name": "Clases de cocina",
-      "img": "https://media.gq.com.mx/photos/5e74fae5bb3b8d000829a104/master/pass/GettyImages-966407886.jpg",
-      "description": "wefwrgwrG",
-      "category": "Coocking",
-      "modules": [
-        {"tittle": "Coocking 1", "descrition": "xdcfvgbhjnklm"},
-        {"tittle": "Coocking 2", "descrition": "evevfg"}
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Curso de mateamticas",
+    "img": "https://matematicasdesdecero.com/wp-content/uploads/2023/01/1.jpg",
+    "description": "qwertyuiosdfghjkvbnm",
+    "category": "matematicas",
+    "modules": [
+      {
+        "tittle": "Matematicas 1",
+        "descrition": "xdcfvgbhjnklm"
+      },
+      {
+        "tittle": "Matematicas 2",
+        "descrition": "evevfg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Curso de biología",
+    "img": "https://encolombia.com/wp-content/uploads/2021/09/Biologia.jpg",
+    "description": "wwfbnwr n`vuwbrf",
+    "category": "Sciences",
+    "modules": [
+      {
+        "tittle": "Sciences 1",
+        "descrition": "xdcfvgbhjnklm"
+      },
+      {
+        "tittle": "Sciences 2",
+        "descrition": "evevfg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Cuentas T",
+    "img": "https://uploadgerencie.com/imagenes/la-cuenta-t.png",
+    "description": "ddfasfvwsfv",
+    "category": "echonomy",
+    "modules": [
+      {
+        "tittle": "echonomy 1",
+        "descrition": "xdcfvgbhjnklm"
+      },
+      {
+        "tittle": "echonomy 2",
+        "descrition": "evevfg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Clases de cocina",
+    "img": "https://media.gq.com.mx/photos/5e74fae5bb3b8d000829a104/master/pass/GettyImages-966407886.jpg",
+    "description": "wefwrgwrG",
+    "category": "Coocking",
+    "modules": [
+      {
+        "tittle": "Coocking 1",
+        "descrition": "xdcfvgbhjnklm"
+      },
+      {
+        "tittle": "Coocking 2",
+        "descrition": "evevfg"
+      }
+    ]
+  }
+]
