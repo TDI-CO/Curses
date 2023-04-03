@@ -1,4 +1,4 @@
-{"Curses": [
+[
   {
     "id": 1,
     "name": "Curso de mateamticas",
@@ -8,11 +8,11 @@
     "modules": [
       {
         "tittle": "Matematicas 1",
-        "descrition": "xdcfvgbhjnklm"
+        "unitys": [{"tittle": "Unidad 1", "descrition": "En esta unidad 1"}]
       },
       {
         "tittle": "Matematicas 2",
-        "descrition": "evevfg"
+        "unitys": [{"tittle": "Unidad 2", "descrition": "En esta unidad 2"}]
       }
     ]
   },
@@ -25,11 +25,11 @@
     "modules": [
       {
         "tittle": "Sciences 1",
-        "descrition": "xdcfvgbhjnklm"
+        "unitys": [{"tittle": "Unidad 1", "descrition": "En esta unidad 1"}]
       },
       {
         "tittle": "Sciences 2",
-        "descrition": "evevfg"
+        "unitys": [{"tittle": "Unidad 2", "descrition": "En esta unidad 2"}]
       }
     ]
   },
@@ -42,11 +42,11 @@
     "modules": [
       {
         "tittle": "echonomy 1",
-        "descrition": "xdcfvgbhjnklm"
+        "unitys": [{"tittle": "Unidad 1", "descrition": "En esta unidad 1"}]
       },
       {
         "tittle": "echonomy 2",
-        "descrition": "evevfg"
+        "unitys": [{"tittle": "Unidad 2", "descrition": "En esta unidad 2"}]
       }
     ]
   },
@@ -59,13 +59,12 @@
     "modules": [
       {
         "tittle": "Coocking 1",
-        "descrition": "xdcfvgbhjnklm"
+        "unitys": [{"tittle": "Unidad 2", "descrition": "En esta unidad 2"}]
       },
       {
         "tittle": "Coocking 2",
-        "descrition": "evevfg"
+        "unitys": [{"tittle": "Unidad 1", "descrition": "En esta unidad 2"}]
       }
     ]
   }
 ]
-}
