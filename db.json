@@ -1,6 +1,7 @@
 {
   "Curses": [
     {
+      "id": 1,
       "name": "Curso de mateamticas",
       "img": "https://matematicasdesdecero.com/wp-content/uploads/2023/01/1.jpg",
       "description": "qwertyuiosdfghjkvbnm",
@@ -11,6 +12,7 @@
       ]
     },
     {
+      "id": 2,
       "name": "Curso de biología",
       "img": "https://encolombia.com/wp-content/uploads/2021/09/Biologia.jpg",
       "description": "wwfbnwr n`vuwbrf",
