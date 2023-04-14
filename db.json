@@ -2,16 +2,16 @@
   "Curses": [
     {
       "id": 1,
-      "name": "Curso de mateamticas",
+      "name": "Curso de matemáticas",
       "author": "Julio profe",
       "img": "https://matematicasdesdecero.com/wp-content/uploads/2023/01/1.jpg",
       "modules": [
         {
-          "tittle": "Matematicas 1",
+          "tittle": "Matemáticas 1",
           "img": "https://matematicasdesdecero.com/wp-content/uploads/2023/01/1.jpg"
         },
         {
-          "tittle": "Matematicas 2",
+          "tittle": "Matemáticas 2",
           "img": "https://matematicasdesdecero.com/wp-content/uploads/2023/01/1.jpg"
         }
       ]
