@@ -3,13 +3,7 @@
     {
       "id": 1,
       "name": "Curso de matemáticas",
-      "cathegory": [
-        {
-          "tittle": "Diseño",
-          "icon": "design-services",
-          "color": "red"
-        }
-      ],
+      "cathegory": "math",
       "author": "Julio profe",
       "img": "https://matematicasdesdecero.com/wp-content/uploads/2023/01/1.jpg",
       "modules": [
@@ -26,13 +20,7 @@
     {
       "id": 2,
       "name": "Curso de programación",
-      "cathegory": [
-        {
-          "tittle": "Code",
-          "icon": "code",
-          "color": "red"
-        }
-      ],
+      "cathegory": "Code",
       "author": "TDI Code",
       "img": "https://talently.tech/blog/wp-content/uploads/2022/02/%C2%BFQue-es-un-framework-en-programacion-scaled-1200x675.jpg",
       "modules": [
@@ -49,13 +37,7 @@
     {
       "id": 3,
       "name": "Curso de cocina",
-      "cathegory": [
-        {
-          "tittle": "cocina",
-          "icon": "glass-cocktail",
-          "color": "red"
-        }
-      ],
+      "cathegory": "Coocking",
       "author": "Master Chef",
       "img": "https://static.vecteezy.com/system/resources/previews/011/571/289/non_2x/flat-design-of-people-cooking-food-in-kitchen-vector.jpg",
       "modules": [
@@ -72,14 +54,7 @@
     {
       "id": 4,
       "name": "Curso de carro",
-
-      "cathegory": [
-        {
-          "tittle": "Conducción",
-          "icon": "car",
-          "color": "red"
-        }
-      ],
+      "cathegory": "drive",
       "author": "Maserati",
       "img": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
       "modules": [
